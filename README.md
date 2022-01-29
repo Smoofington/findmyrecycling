@@ -97,7 +97,7 @@ Product names are in English
 
 **Then** I should be able to do the following  
 
- you can save a facility to favorites
+	You can save a facility to favorites
 
 2.2  
 
@@ -107,7 +107,7 @@ Product names are in English
 
 **Then** I should be able to do the following
 
-  You can save the search to favorites  
+	You can save the search to favorites  
 
 ## Class Diagram  
 
@@ -115,7 +115,12 @@ class diagram goes here when finished
 
 ## Class Diagram Description  
 
-## Scrum  
+## [Scrum](https://github.com/Smoofington/findmyrecycling/projects/1)  
+DevOps/Scrum Master - Matthew Caudill  
+UI Specialist(s) - Daniel Cullen  
+Integration Specialist(s) - Hamza Rauf, Jeffrey Benton  
 
-## [Github](https://github.com/Smoofington/findmyrecycling)
+## [Github](https://github.com/Smoofington/findmyrecycling)  
 
+## Weekly Meeting  
+Tuesday and Saturday at 7pm EST on discord
