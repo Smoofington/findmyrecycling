@@ -18,7 +18,7 @@ Do you want to recycle, but don’t know where to take it? Have harsh chemicals 
 
 Use your android device to find recycling centers near you. Save your preferred facilities to your phone!
 
-## Storyboard
+## [Storyboard](https://projects.invisionapp.com/prototype/FindMyRecycling-ckz0r6vi3000zz501chx8mi2u/play/c01481d8)
 
 ![storyboard1](https://user-images.githubusercontent.com/82420942/151686533-b0e34993-3573-4259-a595-410139b7a6d1.png)
 ![storyboard2](https://user-images.githubusercontent.com/82420942/151686537-c737bdfa-5268-4835-a02b-4b9da4a4c034.png)
@@ -113,7 +113,7 @@ Product names are in English
 
 	You can save the search to favorites  
 
-## [Class Diagram](https://projects.invisionapp.com/prototype/FindMyRecycling-ckz0r6vi3000zz501chx8mi2u/play/c01481d8)  
+## Class Diagram  
 
 ![FindMyRecycling draft drawio](https://user-images.githubusercontent.com/82420942/151686286-5f5ee54c-662f-4f67-bfd6-ed5e116f2170.png) 
 
@@ -126,8 +126,9 @@ Product names are in English
 **IProductDAO** - Interface for Retrofit to find and parse product JSON.  
 **IFacilityDAO** – Interface for Room to persist facility data.  
 
+## [Product Backlog](https://github.com/Smoofington/findmyrecycling/projects)
 
-## [Scrum](https://github.com/Smoofington/findmyrecycling/projects/1)  
+## Scrum roles
 DevOps/Scrum Master - Matthew Caudill  
 UI Specialist(s) - Daniel Cullen, Bhakti Pokhrel  
 Integration Specialist(s) - Hamza Rauf, Jeffrey Benton  
