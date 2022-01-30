@@ -113,7 +113,7 @@ Product names are in English
 
 	You can save the search to favorites  
 
-## Class Diagram  
+## [Class Diagram](https://projects.invisionapp.com/prototype/FindMyRecycling-ckz0r6vi3000zz501chx8mi2u/play/c01481d8)  
 
 ![FindMyRecycling draft drawio](https://user-images.githubusercontent.com/82420942/151686286-5f5ee54c-662f-4f67-bfd6-ed5e116f2170.png) 
 
