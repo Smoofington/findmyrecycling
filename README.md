@@ -8,7 +8,7 @@ Matthew Caudill
 Hamza Rauf    
 Daniel Cullen     
 Jeffrey Benton     
-Bhakti (lastname)
+Bhakti Pokhrel
 
 ## Introduction
 
@@ -117,7 +117,7 @@ class diagram goes here when finished
 
 ## [Scrum](https://github.com/Smoofington/findmyrecycling/projects/1)  
 DevOps/Scrum Master - Matthew Caudill  
-UI Specialist(s) - Daniel Cullen  
+UI Specialist(s) - Daniel Cullen, Bhakti Pokhrel  
 Integration Specialist(s) - Hamza Rauf, Jeffrey Benton  
 
 ## [Github](https://github.com/Smoofington/findmyrecycling)  
